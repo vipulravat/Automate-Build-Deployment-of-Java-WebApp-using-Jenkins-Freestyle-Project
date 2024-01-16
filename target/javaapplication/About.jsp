@@ -7,7 +7,7 @@
 <title>About page</title>
 </head>
 <body>
-<h1>This is vips Web app</h1>
+<h1>This is vips Web App</h1>
  
 </body>
 </html>
