@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>services jsp file</title>
 </head>
-<body>
+<body style="background-color:DodgerBlue;">
  <h1>This is services jsp file</h1>
 </body>
 </html>

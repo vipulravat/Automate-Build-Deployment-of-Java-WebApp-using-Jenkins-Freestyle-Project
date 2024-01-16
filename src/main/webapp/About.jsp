@@ -6,8 +6,7 @@
 <meta charset="UTF-8">
 <title>About page</title>
 </head>
-<body>
+<body style="background-color:DodgerBlue;">
 <h1>This is vips Web app</h1>
- 
 </body>
 </html>
