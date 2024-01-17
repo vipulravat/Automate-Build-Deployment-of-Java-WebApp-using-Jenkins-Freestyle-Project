@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body style="background-color:DodgerBlue;">
-<h1>Java app running in jenkin</h1>
+<h1>I'm going to run this app in jenkin </h1>
 
 </body>
 </html>
