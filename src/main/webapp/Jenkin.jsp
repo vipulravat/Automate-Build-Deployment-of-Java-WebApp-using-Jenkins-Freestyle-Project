@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body style="background-color:DodgerBlue;">
-<h1>I'm going to Automate this web app in jenkin</h1>
+<h1>I'm going to Automate this WEB APP in jenkin</h1>
 
 </body>
 </html>
